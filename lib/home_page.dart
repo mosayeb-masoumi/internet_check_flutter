@@ -81,6 +81,7 @@ class _HomePageState extends State<HomePage> {
 
         Text("Connection Status"),
         Row(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
 
             Icon(
